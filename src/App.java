@@ -27,6 +27,10 @@ class App{
 
   }
 
+  public static boolean isValid(int r, int c){
+
+  }
+
   public static boolean isDone(){
     return false;
   }
